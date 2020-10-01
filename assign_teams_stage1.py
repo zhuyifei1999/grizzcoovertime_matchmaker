@@ -29,24 +29,6 @@ def bool_to_bv(val):
     return ite(val, claripy.BVV(1, bit_length), claripy.BVV(0, bit_length))
 
 
-def min_bv(lst):
-    it = iter(lst)
-    cum = next(it)
-    for elem in it:
-        cum = ite(elem < cum, elem, cum)
-
-    return cum
-
-
-def max_bv(lst):
-    it = iter(lst)
-    cum = next(it)
-    for elem in it:
-        cum = ite(elem > cum, elem, cum)
-
-    return cum
-
-
 def do_round(roundnum):
     global results
 
