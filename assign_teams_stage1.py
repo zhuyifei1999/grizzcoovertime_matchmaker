@@ -63,7 +63,7 @@ def do_round(roundnum):
         for i in range(num_teams_w_rando):
             s.add(sym != (num_teams_normal + i) * 4 + 3)
 
-    # players be on the same team
+    # players cannot be on the same team more than once
     for i in range(num_players):
         for j in range(num_players):
             if i <= j:
@@ -75,7 +75,7 @@ def do_round(roundnum):
 
             iter_constraints.append(sym_temp <= 1)
 
-    # players play with rando
+    # players cannot play with rando more than once
     if num_teams_w_rando:
         for i in range(num_players):
             sym_temp = bool_to_bv(player_symbols[i] / 4 >= num_teams_normal)

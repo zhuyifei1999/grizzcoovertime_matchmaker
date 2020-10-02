@@ -1,0 +1,55 @@
+Constraining 3 rounds
+Unsat # player_buf = 1, rando_buf = 1 in 301.09s
+Unsat # player_buf = 2, rando_buf = 1 in 300.61s
+Unsat # player_buf = 1, rando_buf = 2 in 300.57s
+Unsat # player_buf = 2, rando_buf = 2 in 300.59s
+Solved # player_buf = 3, rando_buf = 2 in 284.83s
+Solved # player_buf = 3, rando_buf = 1 in 217.54s
+Round 1
+Team 1: 0, 1, 2, 3
+Team 2: 4, 5, 6, 7
+Team 3: 8, 9, 10, 11
+Team 4: 12, 13, 14, R
+Team 5: 15, 16, 17, R
+Round 2
+Team 1: 0, 7, 10, R
+Team 2: 1, 4, 12, 15
+Team 3: 2, 8, 13, 16
+Team 4: 3, 6, 9, R
+Team 5: 5, 11, 14, 17
+Round 3
+Team 1: 0, 9, 14, 15
+Team 2: 1, 5, 8, R
+Team 3: 2, 4, 11, R
+Team 4: 3, 7, 12, 16
+Team 5: 6, 10, 13, 17
+Round 4
+Team 1: 0, 3, 14, 15
+Team 2: 1, 8, 11, 16
+Team 3: 2, 6, 9, 10
+Team 4: 4, 5, 7, R
+Team 5: 12, 13, 17, R
+Round 5
+Team 1: 0, 12, 14, R
+Team 2: 1, 5, 9, 11
+Team 3: 2, 8, 10, 17
+Team 4: 3, 6, 16, R
+Team 5: 4, 7, 13, 15
+Round 6
+Team 1: 0, 4, 9, 11
+Team 2: 1, 2, 13, R
+Team 3: 3, 10, 16, 17
+Team 4: 5, 6, 12, 14
+Team 5: 7, 8, 15, R
+Round 7
+Team 1: 0, 4, 13, 16
+Team 2: 1, 11, 15, R
+Team 3: 2, 9, 17, R
+Team 4: 3, 5, 6, 12
+Team 5: 7, 8, 10, 14
+Round 8
+Team 1: 0, 1, 7, 13
+Team 2: 2, 4, 15, 17
+Team 3: 3, 10, 14, R
+Team 4: 5, 8, 11, R
+Team 5: 6, 9, 12, 16

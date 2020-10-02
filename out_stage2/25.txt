@@ -1,0 +1,19 @@
+Constraining 2 rounds
+Unsat # player_buf = 1, rando_buf = 1 in 302.25s
+Unsat # player_buf = 2, rando_buf = 1 in 301.12s
+Unsat # player_buf = 1, rando_buf = 2 in 301.23s
+Unsat # player_buf = 2, rando_buf = 2 in 301.07s
+Unsat # player_buf = 3, rando_buf = 2 in 301.06s
+Unsat # player_buf = 2, rando_buf = 3 in 301.06s
+Unsat # player_buf = 3, rando_buf = 3 in 301.05s
+Unsat # player_buf = 4, rando_buf = 3 in 301.06s
+Unsat # player_buf = 3, rando_buf = 4 in 301.10s
+Unsat # player_buf = 4, rando_buf = 4 in 301.14s
+Unsat # player_buf = 5, rando_buf = 4 in 301.14s
+Unsat # player_buf = 4, rando_buf = 5 in 301.09s
+Unsat # player_buf = 5, rando_buf = 5 in 301.09s
+Unsat # player_buf = 6, rando_buf = 5 in 301.08s
+Unsat # player_buf = 5, rando_buf = 6 in 301.13s
+Unsat # player_buf = 6, rando_buf = 6 in 301.04s
+Unsat # player_buf = 7, rando_buf = 6 in 301.08s
+Unsat # player_buf = 6, rando_buf = 7 in 301.09s

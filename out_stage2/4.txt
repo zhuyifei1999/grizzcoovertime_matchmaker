@@ -1,0 +1,18 @@
+Constraining 1 rounds
+Solved # player_buf = 0, rando_buf = 0 in 0.06s
+Round 1
+Team 1: 0, 1, 2, 3
+Round 2
+Team 1: 0, 1, 2, 3
+Round 3
+Team 1: 0, 1, 2, 3
+Round 4
+Team 1: 0, 1, 2, 3
+Round 5
+Team 1: 0, 1, 2, 3
+Round 6
+Team 1: 0, 1, 2, 3
+Round 7
+Team 1: 0, 1, 2, 3
+Round 8
+Team 1: 0, 1, 2, 3

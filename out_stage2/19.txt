@@ -1,0 +1,50 @@
+Constraining 5 rounds
+Solved # player_buf = 1, rando_buf = 1 in 104.38s
+Round 1
+Team 1: 0, 1, 2, 3
+Team 2: 4, 5, 6, 7
+Team 3: 8, 9, 10, 11
+Team 4: 12, 13, 14, 15
+Team 5: 16, 17, 18, R
+Round 2
+Team 1: 0, 4, 8, 15
+Team 2: 1, 9, 14, R
+Team 3: 2, 5, 12, 17
+Team 4: 3, 7, 11, 16
+Team 5: 6, 10, 13, 18
+Round 3
+Team 1: 0, 11, 14, 17
+Team 2: 1, 6, 15, 16
+Team 3: 2, 4, 9, 13
+Team 4: 3, 5, 10, R
+Team 5: 7, 8, 12, 18
+Round 4
+Team 1: 0, 7, 13, R
+Team 2: 1, 4, 10, 17
+Team 3: 2, 11, 15, 18
+Team 4: 3, 6, 9, 12
+Team 5: 5, 8, 14, 16
+Round 5
+Team 1: 0, 10, 12, 16
+Team 2: 1, 5, 11, 13
+Team 3: 2, 6, 8, R
+Team 4: 3, 4, 14, 18
+Team 5: 7, 9, 15, 17
+Round 6
+Team 1: 0, 3, 5, 15
+Team 2: 1, 6, 17, 18
+Team 3: 2, 11, 12, R
+Team 4: 4, 7, 10, 14
+Team 5: 8, 9, 13, 16
+Round 7
+Team 1: 0, 6, 14, 17
+Team 2: 1, 7, 8, 12
+Team 3: 2, 5, 9, 10
+Team 4: 3, 4, 16, R
+Team 5: 11, 13, 15, 18
+Round 8
+Team 1: 0, 5, 9, 18
+Team 2: 1, 10, 15, R
+Team 3: 2, 7, 14, 16
+Team 4: 3, 8, 13, 17
+Team 5: 4, 6, 11, 12

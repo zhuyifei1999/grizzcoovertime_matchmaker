@@ -1,0 +1,42 @@
+Constraining 4 rounds
+Solved # player_buf = 1, rando_buf = 1 in 93.61s
+Round 1
+Team 1: 0, 1, 2, 3
+Team 2: 4, 5, 6, 7
+Team 3: 8, 9, 10, 11
+Team 4: 12, 13, 14, R
+Round 2
+Team 1: 0, 5, 9, 14
+Team 2: 1, 4, 11, 13
+Team 3: 2, 6, 8, 12
+Team 4: 3, 7, 10, R
+Round 3
+Team 1: 0, 7, 11, 12
+Team 2: 1, 6, 9, R
+Team 3: 2, 4, 10, 14
+Team 4: 3, 5, 8, 13
+Round 4
+Team 1: 0, 4, 8, R
+Team 2: 1, 5, 10, 12
+Team 3: 2, 7, 9, 13
+Team 4: 3, 6, 11, 14
+Round 5
+Team 1: 0, 11, 13, R
+Team 2: 1, 4, 5, 10
+Team 3: 2, 6, 9, 12
+Team 4: 3, 7, 8, 14
+Round 6
+Team 1: 0, 5, 12, 14
+Team 2: 1, 6, 7, 13
+Team 3: 2, 8, 10, 11
+Team 4: 3, 4, 9, R
+Round 7
+Team 1: 0, 6, 10, 13
+Team 2: 1, 7, 8, 14
+Team 3: 2, 5, 11, R
+Team 4: 3, 4, 9, 12
+Round 8
+Team 1: 0, 7, 9, 10
+Team 2: 1, 3, 11, 12
+Team 3: 2, 4, 13, 14
+Team 4: 5, 6, 8, R

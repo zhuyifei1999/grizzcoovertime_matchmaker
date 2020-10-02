@@ -1,0 +1,39 @@
+Constraining 1 rounds
+Unsat # player_buf = 1, rando_buf = 1 in 300.43s
+Unsat # player_buf = 2, rando_buf = 1 in 300.17s
+Unsat # player_buf = 1, rando_buf = 2 in 300.17s
+Unsat # player_buf = 2, rando_buf = 2 in 300.17s
+Solved # player_buf = 3, rando_buf = 2 in 91.46s
+Solved # player_buf = 3, rando_buf = 1 in 360.61s
+Round 1
+Team 1: 0, 1, 2, 3
+Team 2: 4, 5, 6, R
+Team 3: 7, 8, 9, R
+Round 2
+Team 1: 0, 3, 6, R
+Team 2: 1, 8, 9, R
+Team 3: 2, 4, 5, 7
+Round 3
+Team 1: 0, 6, 9, R
+Team 2: 1, 2, 4, R
+Team 3: 3, 5, 7, 8
+Round 4
+Team 1: 0, 6, 7, R
+Team 2: 1, 4, 5, 9
+Team 3: 2, 3, 8, R
+Round 5
+Team 1: 0, 5, 7, R
+Team 2: 1, 2, 6, 9
+Team 3: 3, 4, 8, R
+Round 6
+Team 1: 0, 3, 7, 9
+Team 2: 1, 4, 8, R
+Team 3: 2, 5, 6, R
+Round 7
+Team 1: 0, 4, 6, 8
+Team 2: 1, 2, 9, R
+Team 3: 3, 5, 7, R
+Round 8
+Team 1: 0, 1, 7, R
+Team 2: 2, 5, 9, R
+Team 3: 3, 4, 6, 8

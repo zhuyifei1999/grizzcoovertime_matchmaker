@@ -1,0 +1,34 @@
+Constraining 1 rounds
+Solved # player_buf = 0, rando_buf = 0 in 12.35s
+Round 1
+Team 1: 0, 1, 2, R
+Team 2: 3, 4, 5, R
+Team 3: 6, 7, 8, R
+Round 2
+Team 1: 0, 3, 6, R
+Team 2: 1, 5, 8, R
+Team 3: 2, 4, 7, R
+Round 3
+Team 1: 0, 2, 7, R
+Team 2: 1, 4, 6, R
+Team 3: 3, 5, 8, R
+Round 4
+Team 1: 0, 4, 8, R
+Team 2: 1, 3, 7, R
+Team 3: 2, 5, 6, R
+Round 5
+Team 1: 0, 5, 7, R
+Team 2: 1, 4, 6, R
+Team 3: 2, 3, 8, R
+Round 6
+Team 1: 0, 3, 4, R
+Team 2: 1, 2, 5, R
+Team 3: 6, 7, 8, R
+Round 7
+Team 1: 0, 1, 8, R
+Team 2: 2, 3, 6, R
+Team 3: 4, 5, 7, R
+Round 8
+Team 1: 0, 5, 6, R
+Team 2: 1, 3, 7, R
+Team 3: 2, 4, 8, R
